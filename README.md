@@ -2,6 +2,8 @@
 
 Hides the disturbing yellow boxes saying *'Translate message to English'* in Google Groups.
 
+![](https://cloud.githubusercontent.com/assets/2071639/14472400/bc359814-00fb-11e6-8362-9e418142496a.png)
+
 Script page:
 https://greasyfork.org/en/scripts/
 
